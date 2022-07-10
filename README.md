@@ -35,13 +35,6 @@ The PadPal is designed to leverage consumer grade 3D printing technology and con
 
 **TYLER, ADD PICTURE OF PARTS HERE**
 
-## Code (Finite State Machine)
-
-The PadPal utalizes an Attiny13ASU microcontroller that can be programmed to controlle the DC motor. I have programmed the MC with a finite state machine that works as follows. When you plug in the device, it waits 2 seconds before starting. After 2 seconds pass, it ramps up the fan to a specified speed. Once at specified speed it maintains that speed for a specified time. Once the specified time has ellapse, it will turn off the fan and enter sleep mode to avoid accidentally draining a forgetful hikers bacttery bank. To restart the PadPal, the user must unplug it and plug it in again.
-
-**Bellow is an FSM Diagram to assist in understanding the code so one can modify it.**
-
-**TYLER --> DONT FORGET TO ADD FSM DIAGRAM**
 
 ## 3D Printed Hardware
 
@@ -59,3 +52,20 @@ There are 2 user printed parts that compose the PadPals general body. Bellow are
 
 **Settings:** print with skinny end facing up, add a 2mm brim, no supports
 
+## Code (Finite State Machine)
+
+The PadPal utalizes an Attiny13ASU microcontroller that can be programmed to controlle the DC motor. I have programmed the MC with a finite state machine that works as follows. When you plug in the device, it waits 2 seconds before starting. After 2 seconds pass, it ramps up the fan to a specified speed. Once at specified speed it maintains that speed for a specified time. Once the specified time has ellapse, it will turn off the fan and enter sleep mode to avoid accidentally draining a forgetful hikers bacttery bank. To restart the PadPal, the user must unplug it and plug it in again.
+
+**Bellow is an FSM Diagram to assist in understanding the code so one can modify it.**
+
+**TYLER --> DONT FORGET TO ADD FSM DIAGRAM**
+
+## Programming the PCB
+
+To program the PadPal PCB you will need to make an "Arduino as ISP". For this I used an Arduino Uno board and purchased a perferate "hat" board to solder up programmer with pogopins. First you will need to download the Arduino IDE if you havent done so. Next you need to flash the "Arduino as ISP" example sketch into the Arduino You will use to program your PadPal. Now you need to download the MicroCore liberary into your Arduino IDE so you can program the PadPal. Please watch this video of an unrelated project on how to do so.
+
+**TYLER ADD LINK TO VIDEO!**
+
+## Arduino as ISP Programmer Pin-Out
+
+**Tyler add schematic for Arduino as ISP Pinout Plus Picture of your setup**
