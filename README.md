@@ -1,6 +1,6 @@
 # PadPal
 
-> Author: Brian Crites ([@brrcrites](https://github.com/brrcrites))
+> Author: Tyler Reeves, AKA T-Rex ([@btylercreeves](https://github.com/tylercreeves))
 
 **An untralight electric sleeping pad inflator solution**
 
