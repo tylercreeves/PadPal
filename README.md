@@ -10,16 +10,27 @@ The PadPal is a bare bones, simple electric sleeping pad inflation device. The g
 ## Design
 
 The PadPal is designed to leverage consumer grade 3D printing technology and consumer accessible PCB manufactures like JLCPCB. It is composed of 5 parts.
+
 `Part:* 3D printed fan duct housing
+
 `Qty:* 1
+
 `Part:* 3D printed sleeping pad valve adapter
+
 `Qty:* 1
+
 `Part:* 6x15mm coreless DC motor with .8mm shaft and micro JST connector
+
 `Qty:* 1
+
 `Part:* 31mm 4 blade propeller with .8mm press fit shaft hole.
+
 `Qt1:* 1
+
 `Part:* PadPal V3 PCB with SMD
+
 `Qty:* 1
+
 
 ## Unit Testing
 
