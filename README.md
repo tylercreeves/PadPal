@@ -27,7 +27,7 @@ The PadPal is designed to leverage consumer grade 3D printing technology and con
 
 >**Part:** 31mm 4 blade propeller with .8mm press fit shaft hole.
 
-**Qt1:** 1
+**Qty:** 1
 
 >**Part:** PadPal V3 PCB with SMD
 
