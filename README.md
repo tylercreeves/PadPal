@@ -11,7 +11,7 @@ The PadPal is a bare bones, simple electric sleeping pad inflation device. The g
 
 The PadPal is designed to leverage consumer grade 3D printing technology and consumer accessible PCB manufactures like JLCPCB. It is composed of 5 parts.
 
-`Part:* 3D printed fan duct housing
+*`Part:* 3D printed fan duct housing
 
 `Qty:* 1
 
