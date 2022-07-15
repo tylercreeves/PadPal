@@ -8,6 +8,10 @@
 
 The PadPal is a bare bones, simple electric sleeping pad inflation device. The goal of this project is to make a sleeping pad inflator that us UL folks would not shun away in flavor of sore jaw muscles, empty lungs, and light heads.
 
+Below is a loose explanation of the project as well as how you can make your own. 
+
+If making your own seems like a hassel, you can also purchase them from me for $44.00 shipped to the lower 48 states (contact me for shipping rates elsewhere) by reaching out to me via reddit u/tylercreeves
+
 
 ## Design
 
@@ -64,6 +68,8 @@ The PadPal utalizes an Attiny13ASU microcontroller that can be programmed to con
 ## Making/Buying the Custom PCB
 
 To get a custom motor controller PCB for this project, you have two options. One is to download the EDA GERBER files, BOM file, and source a manufactureur for the PCB as well as all the components. This board used SMD components and requires some decent skills in SMD soldering to pull off. It you go this route, there usually are minimum order quantities required for the PCB and components, so you may end up with a few extra boards.
+
+<img src="https://github.com/tylercreeves/PadPal/blob/main/Pictures/Pad-Pal_PCB.JPG" data-canonical-src="https://github.com/tylercreeves/PadPal/blob/main/Pictures/Pad-Pal_PCB.JPG" width="600" height="600" />
 
 To save some of you the time and complexity of making and programming the boards yourself, you can contact me via reddit at u/tylercreeves where I sell the assembled and programmed boards for $12.18 shipped to the lower 48 states (contact me for special shipping rates elsewhere).
 
