@@ -8,7 +8,7 @@
 
 The PadPal is a bare bones, simple electric sleeping pad inflation device. The goal of this project is to make a sleeping pad inflator that us UL folks would not shun away in flavor of sore jaw muscles, empty lungs, and light heads.
 
-Below is a loose explanation of the project as well as how you can make your own. 
+Below is a breakdown of the project as well as how you can make your own. 
 
 If making your own seems like a hassel, you can also purchase them from me for $44.00 shipped to the lower 48 states (contact me for shipping rates elsewhere) by reaching out to me via reddit u/tylercreeves
 
