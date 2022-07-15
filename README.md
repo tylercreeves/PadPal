@@ -2,7 +2,7 @@
 
 > Author: Tyler Reeves, AKA T-Rex ([@tylercreeves](https://github.com/tylercreeves))
 
-**TYLER, PLEASE ADD A PICTURE OF THE PADPAL HERE**
+![alt text](https://github.com/tylercreeves/PadPal/blob/main/Pictures/Pad-Pal%20(front).jpg)
 
 **An untralight electric sleeping pad inflator solution**
 
