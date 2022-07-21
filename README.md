@@ -93,7 +93,7 @@ Here is a picture of my setup and Pin-Out of the headers on my custom motor cont
 
 Review the FSM diagram along side the included code to get a sense of what is going on in the code. 
 
-<img src="https://github.com/tylercreeves/PadPal/blob/main/Pictures/Pad-Pal_FSM_Diagram.JPG" data-canonical-src="https://github.com/tylercreeves/PadPal/blob/main/Pictures/Pad-Pal_FSM_Diagram.JPG" width="1186" height="834" />
+<img src="https://github.com/tylercreeves/PadPal/blob/main/Pictures/Pad-Pal_FSM_Diagram.JPG" data-canonical-src="https://github.com/tylercreeves/PadPal/blob/main/Pictures/Pad-Pal_FSM_Diagram.JPG" />
 
 ## Assembly/Finishing
 
