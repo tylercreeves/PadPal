@@ -8,8 +8,8 @@
 //Inflator user paramiters
 const double OnDelay = 2;         //OnDelay is the time in seconds the inflator will wait to start the fan after being pluged in
 //const double RampDelay = 5;     //time in seconds the fan will ramp up to max speed. Note, not compatible with AttinyA13 MC, uncomment for additional functuionality if you'r using an MC with more flash memmory
-const double OnTime = 180;        //OnTime is the time the inflator will stay on in seconds.
-const double DutyCycle = 32.5;      //Max fan speed in terms of percentage. EX: if DutyCycle = 35, then fan will max out at 35% speed. WARNING, depending on motor installed, DutyCycle >= 45 may cause overheating and damage
+const double OnTime = 172;        //OnTime is the time the inflator will stay on in seconds.
+const double DutyCycle = 34.5;      //Max fan speed in terms of percentage. EX: if DutyCycle = 35, then fan will max out at 35% speed. WARNING, depending on motor installed, DutyCycle >= 45 may cause overheating and damage
 
 //peramiters governing finite state machine behavior
 const int motorPin = 0;           //Which microcontroller pin sends out the PWM signal?
